@@ -1,0 +1,17 @@
+.DS_Store
+node_modules
+__pycache__
+.env
+venv/
+.venv/
+*.log
+
+# Data exclusions
+backend/data/raw/*
+!backend/data/raw/oncology_drugs.csv
+backend/data/processed/*
+!backend/data/processed/knowledge_graph.gpickle
+!backend/data/processed/oncology_processed.pt
+
+# Models
+!backend/checkpoints/*.pth

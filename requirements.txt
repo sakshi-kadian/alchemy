@@ -1,0 +1,11 @@
+torch
+torch-geometric
+fastapi
+uvicorn
+neo4j
+rdkit
+chembl_webresource_client
+pandas
+python-dotenv
+requests
+tqdm
