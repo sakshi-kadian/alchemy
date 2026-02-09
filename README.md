@@ -1,6 +1,6 @@
-# ALCHEMY: Toxicity-Aware Graph Diffusion for Oncology Therapeutics
-
-**Knowledge-Guided Graph Diffusion for Clinical Drug Discovery**
+# ALCHEMY
+### **Toxicity-Aware Graph Diffusion for Oncology Therapeutics**
+*Knowledge-Guided Clinical Drug Discovery*
 
 ---
 
